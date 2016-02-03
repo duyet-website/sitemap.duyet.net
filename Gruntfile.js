@@ -1,11 +1,14 @@
 module.exports = function(grunt) {
     grunt.initConfig({
+    	utm_params: '?utm_source=sitemap.duyetdev.com&utm_medium=sitemap.link&utm_campaign=sitemap.tracker',
+
         fixturesPath: 'assets',
         pkg: require('./package.json'),
 
         processhtml: {
             options: {
                 data: {
+                	utm_params: '<%= utm_params %>',
                 	data: require('./sitemap.json')
                 }
             },
@@ -45,7 +48,8 @@ module.exports = function(grunt) {
                         ],
                         main: '<%= fixturesPath %>/js/main.js'
                     },
-                    data: {}
+                    data: {
+                    }
                 }
             }
 

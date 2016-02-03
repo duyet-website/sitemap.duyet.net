@@ -12,7 +12,8 @@
 		"node": "blog.duyetdev.com",
 		"url": "https://blog.duyetdev.com",
 		"sub": [
-
+			{ "node": "feed", "url": "https://blog.duyetdev.com/p/feed.html" },
+			{ "node": "about", "url": "https://blog.duyetdev.com/2014/03/about.html#.VrGS4ex97Qr" }
 		]
 	},
 	{
@@ -20,6 +21,15 @@
 		"url": "http://page.duyetdev.com",
 		"sub": [
 
+		]
+	},
+	{
+		"node": "ask.duyetdev.com",
+		"url": "http://ask.duyetdev.com",
+		"sub": [
+			{ "node": "", "url": "http://ask.duyetdev.com" },
+			{ "node": "Ask me anything", "url": "http://ask.duyetdev.com/ask" },
+			{ "node": "Archive", "url": "http://ask.duyetdev.com/archive" }
 		]
 	},
 	{
@@ -131,7 +141,7 @@
 		"node": "spheres.duyetdev.com",
 		"url": "http://spheres.duyetdev.com",
 		"sub": [
-
+			{ "node": "uit", "url": "http://spheres.duyetdev.com/uit/" }
 		]
 	}
 ]

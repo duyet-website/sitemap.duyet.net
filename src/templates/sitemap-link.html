@@ -4,7 +4,7 @@
 <!-- build:template
 <% for (var i in data) { %>
 	<h5 class="text-primary m-t-1 m-b-1">
-		<a href="<%= data[i].url %>" target="_blank">
+		<a href="<%= data[i].url %><%= utm_params %>" target="_blank">
 			<%= data[i].node %>
 		</a>
 	</h5>
@@ -14,7 +14,7 @@
 		<% for (var j in data[i].sub) { %>
 		
 			<li>
-				<a href="<%= data[i].sub[j].url %>" target="_blank">
+				<a href="<%= data[i].sub[j].url %><%= utm_params %>" target="_blank">
 					/ <%= data[i].sub[j].node %>
 				</a>
 			</li>
