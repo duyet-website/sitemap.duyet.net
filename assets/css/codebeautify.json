@@ -1,0 +1,1094 @@
+{
+    "rss": {
+        "channel": {
+            "id": {
+                "__prefix": "atom",
+                "__text": "tag:blogger.com,1999:blog-3454518094181460838"
+            },
+            "lastBuildDate": "Sat, 30 Jan 2016 23:33:43 +0000",
+            "category": [
+                "Nodejs",
+                "Git",
+                "Web",
+                "News",
+                "php",
+                "github",
+                "tuts",
+                "project",
+                "BigData",
+                "Blog",
+                "Google",
+                "html5",
+                "Linux",
+                "Ubuntu",
+                "javascript",
+                "open source",
+                "Android",
+                "Apache Spark",
+                "Bảo mật",
+                "Css",
+                "Bootstrap",
+                "Developer",
+                "Giấy phép nguồn mở",
+                "MongoDb",
+                "Spark",
+                "Startup",
+                "Thủ thuật Git",
+                "Tutorial",
+                "Virus",
+                "facebook",
+                "jQuery",
+                "Angular",
+                "Apache",
+                "Bower",
+                "Design",
+                "Design Patterns",
+                "Devlopers",
+                "ExpressJs",
+                "Firefox",
+                "Full-stack",
+                "Google now",
+                "Grunt",
+                "Hacker",
+                "Học",
+                "Khái niệm git",
+                "MySQL",
+                "NPM",
+                "PDF",
+                "Package.json",
+                "Phát triển phần mềm",
+                "Post",
+                "Project Manager",
+                "Redis",
+                "Responsive",
+                "Server",
+                "Software",
+                "The Hacker News",
+                "Thông tin cá nhân",
+                "Tin tức",
+                "Trello",
+                "UIT",
+                "docker",
+                "ebook",
+                "game",
+                "simple",
+                "sublime text",
+                "2015",
+                "APC",
+                "Ad Netword",
+                "Ads",
+                "An toàn thông tin",
+                "Android L",
+                "Big Data",
+                "Bài viết hay",
+                "Báo",
+                "CPC",
+                "CSDL",
+                "CSS3",
+                "Chartico",
+                "Chat",
+                "Chrome",
+                "Chrome Extends",
+                "Coding",
+                "Commit",
+                "Compare",
+                "Components",
+                "Cookie",
+                "Courses",
+                "Css Framework",
+                "Cảnh giác",
+                "DBMS",
+                "DCrawler",
+                "DNS",
+                "Database",
+                "Dockerfile",
+                "Dropbox",
+                "Ebooks",
+                "English",
+                "Fedora",
+                "Firefox 30",
+                "Firefox OS",
+                "Flarum",
+                "Framework",
+                "GNU",
+                "Gameloft",
+                "Git Workflow",
+                "Git cheatsheet",
+                "Google Cloud",
+                "Google Glass",
+                "Google IO",
+                "Google Maps",
+                "Grunt task",
+                "HTML",
+                "Hadoop",
+                "Hệ thống thông tin",
+                "I/O",
+                "ICT",
+                "IDE",
+                "IO",
+                "IO.js",
+                "ITViec",
+                "Install",
+                "Intro",
+                "Jslab",
+                "Khoa",
+                "LUA",
+                "License",
+                "Lorem Ipsum",
+                "Lập trình viên",
+                "Lỗ hổng",
+                "MEANjs",
+                "MIT",
+                "Machine Learning",
+                "Meetup",
+                "Minimalism",
+                "Module",
+                "Mã độc",
+                "Mô hình",
+                "Ngộ",
+                "NoSQL",
+                "OOP",
+                "Odoo",
+                "Offline",
+                "OpenVPN",
+                "Opensource",
+                "Oracle",
+                "PHP7",
+                "PM",
+                "PR",
+                "Package",
+                "Phím tắt",
+                "Phần mềm",
+                "PredictionIO",
+                "Presentation",
+                "Presto",
+                "Python",
+                "Quản lý dự án",
+                "Quảng cáo",
+                "RAM",
+                "React",
+                "Remote Desktop",
+                "Reset",
+                "Review",
+                "Review Books",
+                "Review in year",
+                "Roadshow",
+                "SEO",
+                "SQL",
+                "Security",
+                "Slack",
+                "Slideshare",
+                "Software Engineering",
+                "Springer",
+                "Startups2Students",
+                "Story",
+                "Sách",
+                "Sưu tầm",
+                "TNW",
+                "Tao of Programming",
+                "Test",
+                "The Next Web",
+                "Thiết kế phẳng",
+                "Thác nước",
+                "Thông tin",
+                "Thủ thuật",
+                "Tony",
+                "Tony buổi sáng",
+                "Top",
+                "Training",
+                "Translate",
+                "Tutorrial",
+                "Tweak",
+                "Typography",
+                "Update",
+                "VIM",
+                "VS Code",
+                "Vietnam",
+                "Visual Studio Code",
+                "WWW",
+                "Web Design",
+                "Website",
+                "Wiredep",
+                "Wordpress",
+                "World Cup",
+                "XAMPP",
+                "Xoắn ốc",
+                "Year In Review [2015]",
+                "Yeoman",
+                "about",
+                "angular 2",
+                "async",
+                "book",
+                "bookmark",
+                "bí quyết",
+                "class",
+                "clipboard.js",
+                "code",
+                "crawler",
+                "data binding",
+                "docs",
+                "editor",
+                "funny",
+                "giao diện",
+                "git commit",
+                "how to",
+                "https",
+                "iOS",
+                "iOS 8",
+                "iPhone",
+                "it",
+                "jQuery Selector",
+                "js",
+                "khôi phục",
+                "lvd",
+                "mục tiêu",
+                "nhẫn",
+                "node-cache",
+                "phpMyAdmin",
+                "phá giá",
+                "readFile",
+                "reflog",
+                "rảnh viết",
+                "sails",
+                "sailsjs",
+                "sharing",
+                "siminar",
+                "static server",
+                "style guide",
+                "tan man",
+                "theme",
+                "thành công",
+                "thương hiệu cá nhân",
+                "type",
+                "tự sự",
+                "vietnamworks",
+                "view file",
+                "waterfall",
+                "year in review",
+                "ypCore",
+                "đạo lập trình"
+            ],
+            "title": "Tôi là Duyệt",
+            "description": "",
+            "link": "http://blog.duyetdev.com/",
+            "managingEditor": "noreply@blogger.com (Van-Duyet Le)",
+            "generator": "Blogger",
+            "totalResults": {
+                "__prefix": "openSearch",
+                "__text": "161"
+            },
+            "startIndex": {
+                "__prefix": "openSearch",
+                "__text": "1"
+            },
+            "itemsPerPage": {
+                "__prefix": "openSearch",
+                "__text": "25"
+            },
+            "item": [
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5029250545283118406"
+                    },
+                    "pubDate": "Fri, 22 Jan 2016 19:45:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-23T02:45:13.548+07:00"
+                    },
+                    "title": "Tổng hợp câu hỏi phỏng vấn Frontend Developer.",
+                    "description": "See:&nbsp;<a href=\"https://github.com/duyetdev/vietnamese-frontend-interview-questions\">https://github.com/duyetdev/vietnamese-frontend-interview-questions</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/tong-hop-cau-hoi-phong-van-frontend.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-4331644913283370679"
+                    },
+                    "pubDate": "Fri, 22 Jan 2016 19:27:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-23T03:12:12.621+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Ngộ"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "rảnh viết"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "tự sự"
+                        }
+                    ],
+                    "title": "Ngộ",
+                    "description": "Dạo này thấy nhiều cái ngộ.<br><a href=\"http://blog.duyetdev.com/2016/01/ngo.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/ngo.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "http://4.bp.blogspot.com/-8z6buWOavLk/VqJ3YQymoAI/AAAAAAAAOk4/p2E9clXu0B8/s72-c/Screenshot%2Bfrom%2B2016-01-23%2B01-37-56.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5245469680599452830"
+                    },
+                    "pubDate": "Tue, 19 Jan 2016 17:19:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-20T00:19:26.728+07:00"
+                    },
+                    "title": "Đầu tư an toàn thông tin thế nào cho đúng?",
+                    "description": "<a href=\"https://vnhacker.blogspot.com/2016/01/au-tu-toan-thong-tin-nao-cho-ung.html#links\">thái: Đầu tư an toàn thông tin thế nào cho đúng?</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/au-tu-toan-thong-tin-nao-cho-ung.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5588862307700421667"
+                    },
+                    "pubDate": "Sun, 17 Jan 2016 06:58:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-17T16:28:36.738+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Blog"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Học"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Post"
+                        }
+                    ],
+                    "title": "Bear boy",
+                    "description": "Vô tình thấy hình này trên pbfcomics.com. Bàn 1 xíu.<br><br>Dạo, tôi có trò chuyện với vài người bạn. Họ bảo rằng, học (ở UIT) đến giờ thực sự vẫn chưa biết mình thực sự muốn mình học cái gì và ra trường làm cái quái gì. Mặc dù một số bạn còn học rất giỏi.<br><br><div style=\"text-align: center;\"><a href=\"https://blog.duyetdev.com/2016/01/bear-boy.html\"><img border=\"0\" src=\"https://4.bp.blogspot.com/-yPG7dV1wZyE/VpsoWvXEU5I/AAAAAAAAOF0/QsLc1e8hIVk/s1600/PBF037-Bear_Boy.gif\" style=\"border: 0px; box-shadow: none;\"></a></div><a href=\"http://blog.duyetdev.com/2016/01/bear-boy.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/bear-boy.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://4.bp.blogspot.com/-yPG7dV1wZyE/VpsoWvXEU5I/AAAAAAAAOF0/QsLc1e8hIVk/s72-c/PBF037-Bear_Boy.gif",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-6318488971517586288"
+                    },
+                    "pubDate": "Thu, 07 Jan 2016 16:23:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T01:58:30.083+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Offline"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Web"
+                        }
+                    ],
+                    "title": "Offline-First trong Modern Web",
+                    "description": "\"Web\" và \"Online\" là gần như là 2 khái niệm đi liền với nhau. Nhưng gần đây xu thế mới trong thế giới web còn tồn tại 1 khái niệm nữa là công nghệ web offline, offline-first.<br><br><div style=\"text-align: center;\"><a href=\"http://blog.duyetdev.com/2016/01/offline-first-trong-modern-web.html\"><img border=\"0\" height=\"248\" src=\"https://3.bp.blogspot.com/-kknlRujasGI/Vo6QpZWVJJI/AAAAAAAAN2U/Z2VbLAWnQOA/s640/offline-text%2BMJN%2BTech%2BWeb.png\" style=\"border: 0px; box-shadow: none;\" width=\"640\"></a><br></div><a href=\"http://blog.duyetdev.com/2016/01/offline-first-trong-modern-web.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/offline-first-trong-modern-web.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-kknlRujasGI/Vo6QpZWVJJI/AAAAAAAAN2U/Z2VbLAWnQOA/s72-c/offline-text%2BMJN%2BTech%2BWeb.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-4865231351417868670"
+                    },
+                    "pubDate": "Sun, 03 Jan 2016 13:31:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:05:58.920+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "javascript"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Nodejs"
+                        }
+                    ],
+                    "title": "Javascript - Thư viện Vizualization ",
+                    "description": "Các thư viện Vizualization trên Js<br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blog.duyetdev.com/2016/01/javascript-thu-vien-vizualization.html#.Voki5d197Qo\"><img border=\"0\" src=\"https://2.bp.blogspot.com/-XxKj_UJfFVE/VokhkxfngXI/AAAAAAAANp0/2b5K02Ylz28/s1600/preview%2B%25281%2529.png\" style=\"border: 0px; box-shadow: none;\"></a></div><a href=\"http://blog.duyetdev.com/2016/01/javascript-thu-vien-vizualization.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/javascript-thu-vien-vizualization.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://2.bp.blogspot.com/-XxKj_UJfFVE/VokhkxfngXI/AAAAAAAANp0/2b5K02Ylz28/s72-c/preview%2B%25281%2529.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-8342344021032490861"
+                    },
+                    "pubDate": "Sun, 03 Jan 2016 13:16:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:16:06.451+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "bookmark"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Nodejs"
+                        }
+                    ],
+                    "title": "Nodejs - Backend Development Bookmarks",
+                    "description": "Nhiều bạn hỏi, tôi note lại một số bài viết hữu ích về nodejs backend, từ các hướng dẫn cài đặt, npm, database, các frameworks, socket, security, testing, ... tất tần tật để có thể dễ dàng tra cứu. Danh sách này cũng có thể nói gần như overview được hết các kiến thức về Nodejs backend. <br><a href=\"http://blog.duyetdev.com/2016/01/nodejs-backend-development-bookmarks.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2016/01/nodejs-backend-development-bookmarks.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5692836187888278919"
+                    },
+                    "pubDate": "Thu, 31 Dec 2015 16:49:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T01:59:09.345+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "2015"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Review in year"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "year in review"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Year In Review [2015]"
+                        }
+                    ],
+                    "title": "Year In Review [2015]",
+                    "description": "<div style=\"text-align: center;\"><br><div style=\"text-align: left;\"><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"http://blog.duyetdev.com/2015/12/year-in-review-2015.html\"><img border=\"0\" src=\"https://4.bp.blogspot.com/-fLXS7P-nN0U/VoVg5qgEvcI/AAAAAAAANpQ/y3PC7LaWdj4/s1600/2016-Season_trailerstill.gif\" style=\"border: 0px; box-shadow: none;\"></a></div><br>Năm qua thiệt dài, làm thiệt nhiều, thiệt siêng, đôi lúc cũng lười vô tội vạ, được nhiều, mất nhiều, tổng kết lại vài thứ trong năm qua.</div></div><a href=\"http://blog.duyetdev.com/2015/12/year-in-review-2015.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/year-in-review-2015.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://4.bp.blogspot.com/-fLXS7P-nN0U/VoVg5qgEvcI/AAAAAAAANpQ/y3PC7LaWdj4/s72-c/2016-Season_trailerstill.gif",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5296585764647457641"
+                    },
+                    "pubDate": "Wed, 30 Dec 2015 01:28:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:06:11.132+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Ebooks"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "PDF"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Springer"
+                        }
+                    ],
+                    "title": "[PDF] Kho sách lớn miễn phí từ Springer",
+                    "description": "Springer have made a bunch of books available for free, here are the direct links.<br><div style=\"text-align: center;\"><a href=\"http://blog.duyetdev.com/2015/12/pdf-kho-sach-lon-mien-phi-tu-springer.html\"><img border=\"0\" height=\"300\" src=\"https://3.bp.blogspot.com/-50jaydvV_-c/VokjXO2n_jI/AAAAAAAANqA/JEDp9T84aj8/s400/Springer-logo-logotype-1024x768.png\" style=\"border:0;box-shadow:none\" width=\"400\"></a></div><a href=\"http://blog.duyetdev.com/2015/12/pdf-kho-sach-lon-mien-phi-tu-springer.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/pdf-kho-sach-lon-mien-phi-tu-springer.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-50jaydvV_-c/VokjXO2n_jI/AAAAAAAANqA/JEDp9T84aj8/s72-c/Springer-logo-logotype-1024x768.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-8004927281160524746"
+                    },
+                    "pubDate": "Mon, 21 Dec 2015 12:08:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T01:59:18.744+07:00"
+                    },
+                    "category": {
+                        "_domain": "http://www.blogger.com/atom/ns#",
+                        "__text": "Test"
+                    },
+                    "title": "Unit test và Function test ",
+                    "description": "Một hoạt động mang tính sống còn trong các dự án sản xuất hoặc gia công phần mềm, đó là kiểm thử phần mềm (testing).<br><br><div style=\"text-align: center;\"><img border=\"0\" src=\"https://3.bp.blogspot.com/-k9Gxf_MV1Gg/Vnfrm5xSgxI/AAAAAAAAMMs/bicR-4BjnmU/s1600/unit-test.jpg\" style=\"border: 0; box-shadow: none;\"><br></div><a href=\"http://blog.duyetdev.com/2015/12/unit-test-va-function-test.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/unit-test-va-function-test.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-k9Gxf_MV1Gg/Vnfrm5xSgxI/AAAAAAAAMMs/bicR-4BjnmU/s72-c/unit-test.jpg",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-3324245740616192311"
+                    },
+                    "pubDate": "Sun, 20 Dec 2015 07:52:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T01:59:35.699+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "docker"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Dockerfile"
+                        }
+                    ],
+                    "title": "Docker là gì? Cơ bản về Docker",
+                    "description": "Trong thời gian gần đây có rất nhiều bài báo, hay blog, và cả trên Twitter có rất nhiều người đề cập đến Docker. Vậy Docker là gì và tại sao nó hữu ích.<br><div><div style=\"text-align: center;\"><a href=\"https://blog.duyetdev.com/2015/12/docker-la-gi-co-ban-ve-docker.html\"><img border=\"0\" src=\"https://4.bp.blogspot.com/-_yUdu_nrol8/VnZeC8EMsdI/AAAAAAAAMG0/Qiij482W6lg/s1600/product%2B-%2Bengine.png\" style=\"border: 0; box-shadow: none;\"></a></div></div><a href=\"http://blog.duyetdev.com/2015/12/docker-la-gi-co-ban-ve-docker.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/docker-la-gi-co-ban-ve-docker.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://4.bp.blogspot.com/-_yUdu_nrol8/VnZeC8EMsdI/AAAAAAAAMG0/Qiij482W6lg/s72-c/product%2B-%2Bengine.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-1819946190652739302"
+                    },
+                    "pubDate": "Sun, 20 Dec 2015 07:15:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:00:01.346+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Angular"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "angular 2"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "data binding"
+                        }
+                    ],
+                    "title": "Angular 2 có gì mới?",
+                    "description": "Cách đây vài hôm Angular 2 chính thức ra mắt, phiên bản Beta. Theo như t<a href=\"http://thenextweb.com/dd/2015/12/16/angular-2-hits-beta-and-its-a-big-deal-for-the-future-of-the-web/\" target=\"_blank\">henextweb</a>, angular 2 hứa hẹn sẽ là tương lai mới của công nghệ Web hiện đại hiện nay.<br><br><div style=\"text-align: center;\"><img border=\"0\" src=\"https://1.bp.blogspot.com/-ns1tQ1-Aw4E/VnZPOxT1x7I/AAAAAAAAMGI/0am16xApXRU/s1600/angularjs_logo.svg_-650x401.png\" style=\"box-shadow:none;border:0\"></div><a href=\"http://blog.duyetdev.com/2015/12/angular-2-co-gi-moi.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/angular-2-co-gi-moi.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://1.bp.blogspot.com/-ns1tQ1-Aw4E/VnZPOxT1x7I/AAAAAAAAMGI/0am16xApXRU/s72-c/angularjs_logo.svg_-650x401.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-1021189587106418249"
+                    },
+                    "pubDate": "Thu, 17 Dec 2015 07:48:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:00:17.623+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "javascript"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Jslab"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Nodejs"
+                        }
+                    ],
+                    "title": "jsLab.xyz",
+                    "description": "<b><a href=\"http://jslab.xyz/\" target=\"_blank\">jsLab</a> - </b>Mình thích Js, mình làm việc nhiều về các công nghệ của Js, cũng có nhiều mini-project dạng side-project. Vậy tại sao không tập hợp chúng lại.<br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://3.bp.blogspot.com/-YEiHaBErShs/VnJos52PFGI/AAAAAAAAMAo/Su-T_R9cnZ0/s1600/jslab.png\" imageanchor=\"1\"><img border=\"0\" src=\"https://3.bp.blogspot.com/-YEiHaBErShs/VnJos52PFGI/AAAAAAAAMAo/Su-T_R9cnZ0/s1600/jslab.png\" style=\"border: 0; box-shadow: none;\"></a></div><a href=\"http://blog.duyetdev.com/2015/12/jslab-xyz.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/jslab-xyz.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-YEiHaBErShs/VnJos52PFGI/AAAAAAAAMAo/Su-T_R9cnZ0/s72-c/jslab.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-2717059024603161563"
+                    },
+                    "pubDate": "Fri, 11 Dec 2015 17:48:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:00:26.381+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Apache Spark"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "docker"
+                        }
+                    ],
+                    "title": "Apache Spark on Docker",
+                    "description": "Docker and Spark are two technologies which are very hyped these days. <b><a href=\"https://github.com/duyetdev/docker-spark\" target=\"_blank\">The repository</a></b> contains a Docker file to build a Docker image with Apache Spark.<br><div style=\"text-align: center;\"><img border=\"0\" height=\"217\" src=\"https://1.bp.blogspot.com/-KvlK1aCu4JA/VmsMOTCCySI/AAAAAAAALYo/H_kBQPB_dDE/s640/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png\" width=\"640\" style=\"border:0;box-shadow:none\"></div><a href=\"http://blog.duyetdev.com/2015/12/apache-spark-on-docker.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/apache-spark-on-docker.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://1.bp.blogspot.com/-KvlK1aCu4JA/VmsMOTCCySI/AAAAAAAALYo/H_kBQPB_dDE/s72-c/KuDr42X_ITXghJhSInDZekNEF0jLt3NeVxtRye3tqco.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-4082812984734978350"
+                    },
+                    "pubDate": "Wed, 09 Dec 2015 15:43:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:00:36.072+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Chartico"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "PR"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Web"
+                        }
+                    ],
+                    "title": "Chartico - Tạo biểu đồ cột nhanh chóng và đơn giản",
+                    "description": "<b><a href=\"http://www.chartico.com/\" target=\"_blank\">Chartico</a></b> là trang web cho phép chúng ta tạo biểu đồ dạng cột rất nhanh chóng và đơn giản. Nói một cách khác, khi bạn cần tạo nhanh một biểu đồ cột, mà không muốn tạo bảng rồi phức tạp nhiều công đoạn như các công cụ thông thường (Excel, Numbers), chỉ cần vào Chartico để làm. Chartico sẽ cho phép ta chỉnh những thứ cơ bản nhất, đó là: số liệu trên mỗi cột, màu sắc của từng cột (có 10 màu cho bạn chọn), tên của từng cột. Ở phía trên là lựa chọn tiêu đề cho biểu đồ cũng như tiêu đề phụ (Subtitle).<br><div><br></div><div style=\"text-align: center;\"><img border=\"0\" height=\"336\" src=\"https://3.bp.blogspot.com/-jAv_oexdrHk/VmhKEute_XI/AAAAAAAALXc/UG5BlQTW7xg/s640/og.png\" width=\"640\"></div><a href=\"http://blog.duyetdev.com/2015/12/chartico-tao-bieu-o-cot-nhanh-chong-va.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/chartico-tao-bieu-o-cot-nhanh-chong-va.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-jAv_oexdrHk/VmhKEute_XI/AAAAAAAALXc/UG5BlQTW7xg/s72-c/og.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-5347978529971452971"
+                    },
+                    "pubDate": "Wed, 02 Dec 2015 14:58:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:00:48.839+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Apache Spark"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Big Data"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "BigData"
+                        }
+                    ],
+                    "title": "Bigdata - Map-Reduce và bài toán Word Count",
+                    "description": "Map-Reduce là một giải pháp! Map-Reduce được phát minh bởi các kỹ sư Google để giải quyết bài toán xử lý một khối lượng dữ liệu cực lớn, vượt quá khả năng xử lý của một máy tính đơn có cấu hình khủng.<br><div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"http://blog.duyetdev.com/2015/12/map-reduce-va-bai-toan-wordcount.html\"><img border=\"0\" height=\"274\" src=\"https://3.bp.blogspot.com/-i_xNRnGm_pY/Vl8HH5-TM0I/AAAAAAAAKKU/K1W4w2i2f5E/s320/big-data-cloud-e1383271750410-460x394.png\" width=\"320\"></a></div><br><a href=\"http://blog.duyetdev.com/2015/12/map-reduce-va-bai-toan-wordcount.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/map-reduce-va-bai-toan-wordcount.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-i_xNRnGm_pY/Vl8HH5-TM0I/AAAAAAAAKKU/K1W4w2i2f5E/s72-c/big-data-cloud-e1383271750410-460x394.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-8205103247285341602"
+                    },
+                    "pubDate": "Tue, 01 Dec 2015 16:52:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2015-12-01T23:55:30.384+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Blog"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "nhẫn"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "tan man"
+                        }
+                    ],
+                    "title": "nhẫn",
+                    "description": "Năm mới ra trường tấm bằng đại học xếp xó, thấy bạn bè nhiều đứa không học hành đến nơi mà phất lên như gió, thấy hổ thẹn. Thầy giáo vỗ vai “Đàn ông cần nhẫn, nhất là sự nghiệp chớ nên vội vàng, đòi nay mai giàu liền không có đâu. Giờ đã có mục tiêu cứ im lặng mà làm, đừng nhìn thành công người khác, đừng khoe mục tiêu”.<br><a href=\"http://blog.duyetdev.com/2015/12/nhan.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/12/nhan.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-1313091098612089438"
+                    },
+                    "pubDate": "Sat, 14 Nov 2015 16:53:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:01:59.455+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Firefox"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Firefox OS"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Review"
+                        }
+                    ],
+                    "title": "Review - Trải nghiệm Firefox OS bản B2G trên Android",
+                    "description": "<style>.post-body .tr-caption-container { border:0; margin-bottom: 30px; }; td.tr-caption { font-size:100% !important } .post-body img { border:0; box-shadow:none } </style> Firefox OS 2.5 vừa được Mozilla phát hành dưới dạng Developer Preview cho người dùng Android trải nghiệm và sử dụng. Sau đây là các trải nghiệm ban đầu của mình về một HDH khá thú vị này.<br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><img border=\"0\" height=\"640\" src=\"https://2.bp.blogspot.com/-NMBlGlYVEN0/VkdfMAWxk-I/AAAAAAAAF0g/VsMjL_K_yZM/s640/Screenshot_2015-11-14-23-12-54_org.mozilla.b2gdroid.png\" width=\"360\"></div><a href=\"http://blog.duyetdev.com/2015/11/review-trai-nghiem-firefox-os.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/11/review-trai-nghiem-firefox-os.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://2.bp.blogspot.com/-NMBlGlYVEN0/VkdfMAWxk-I/AAAAAAAAF0g/VsMjL_K_yZM/s72-c/Screenshot_2015-11-14-23-12-54_org.mozilla.b2gdroid.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-6858110044969633613"
+                    },
+                    "pubDate": "Fri, 13 Nov 2015 16:28:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:02:28.742+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "node-cache"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Nodejs"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Package"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Package.json"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Tutorrial"
+                        }
+                    ],
+                    "title": "Nodejs - Cache in-memory trong Nodejs",
+                    "description": "memory-cache là một package đơn giản trong Nodejs, giúp chúng ta cache 1 biến hay một giá trị bất kì vào bộ nhớ để dễ dàng quản lý, ngoài ra còn có thể thiết lập thời gian để tự hủy cache khi cần thiết.<br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><img border=\"0\" src=\"https://1.bp.blogspot.com/-AyUtco9W0rE/VkYN8h_yUBI/AAAAAAAAFqI/IY2bT1tt5VU/s1600/nodejs-logo.png\" style=\"border: 0; box-shadow: 0;\"><img border=\"0\" height=\"400\" src=\"https://1.bp.blogspot.com/-NpW8Cw34Ay0/VkYPmTU76DI/AAAAAAAAFqY/UroPqdRt4mg/s400/hdd_hard_drive_disk_technology_storage_save_hardware_information_data_sata_device_memory_tool_backup_computer_electronics_equipment_flat_design_icon-512.png\" style=\"border: 0; box-shadow: 0;\" width=\"400\"></div><br><br><a href=\"http://blog.duyetdev.com/2015/11/nodejs-cache-in-memory-trong-nodejs.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/11/nodejs-cache-in-memory-trong-nodejs.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://1.bp.blogspot.com/-AyUtco9W0rE/VkYN8h_yUBI/AAAAAAAAFqI/IY2bT1tt5VU/s72-c/nodejs-logo.png",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-552298962938169188"
+                    },
+                    "pubDate": "Thu, 12 Nov 2015 17:38:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-03T21:22:47.821+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "BigData"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Google"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Meetup"
+                        }
+                    ],
+                    "title": "Google Big Data Meetup in Saigon",
+                    "description": "Felipe Hoffa is a US-based Big Data Developer Advocate of Google.<br>He will be making a trip down to SE Asia in Nov, and would like to organize a meetup with local Big Data communities in the region.<br><a href=\"http://blog.duyetdev.com/2015/11/google-big-data-meetup-in-saigon.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/11/google-big-data-meetup-in-saigon.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-2942709172717488693"
+                    },
+                    "pubDate": "Wed, 11 Nov 2015 06:57:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:02:10.546+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Machine Learning"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Opensource"
+                        }
+                    ],
+                    "title": "TensorFlow - nền tảng trí tuệ nhân tạo nguồn mở từ Google",
+                    "description": "Google vừa mở mã nguồn của <a href=\"http://tensorflow.org/\" target=\"_blank\">TensorFlow</a>, một nền tảng trí tuệ nhân tạo mà công ty đang sử dụng cho các sản phẩm của mình. Nền tảng này sử dụng kĩ thuật \" machine learning\" để học hỏi, nhận biết hình ảnh, giọng nói và các dấu vết dữ liệu.<br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><img border=\"0\" src=\"https://1.bp.blogspot.com/-i21JBujvBM4/VkLmFYtzF7I/AAAAAAAAFnA/7j5wDsgeYoc/s1600/3542773_cv.jpg\" style=\"border: 0; box-shadow: none;\"></div><br><a href=\"http://blog.duyetdev.com/2015/11/tensorflow-nen-tang-tri-tue-nhan-tao.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/11/tensorflow-nen-tang-tri-tue-nhan-tao.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://1.bp.blogspot.com/-i21JBujvBM4/VkLmFYtzF7I/AAAAAAAAFnA/7j5wDsgeYoc/s72-c/3542773_cv.jpg",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-921545286347886124"
+                    },
+                    "pubDate": "Fri, 06 Nov 2015 18:54:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2015-11-07T01:56:09.104+07:00"
+                    },
+                    "category": {
+                        "_domain": "http://www.blogger.com/atom/ns#",
+                        "__text": "funny"
+                    },
+                    "title": "Nhật ký.",
+                    "description": "<h2>Nhật ký của vợ&nbsp;</h2>&nbsp;Mình nghĩ rằng chồng mình có gì đó lạ lùng vào tối nay. Tụi mình lên kế hoạch ăn tối tại một nhà hàng sang trọng. Mình đi shopping với bạn cả ngày, thế nên mình nghĩ anh ấy buồn vì mình đến muộn, nhưng anh ấy ko nói gì về vấn đề đó cả. Không có gì để nói, vì thế mình nói rằng muốn đi một chỗ nào đó yên tĩnh để nói chuyện. Anh ấy đồng ý, nhưng cũng không nói gì nhiều. Mình hỏi rằng có chuyện gì à; anh ấy nói: “Không có gì…”; rồi mình hỏi có phải do mình mà anh ây buồn. Anh nói rằng anh không buồn, và em đừng lo. Trên đường về, mình nói là mình yêu anh ấy. Anh ấy cười nhẹ và tiếp tục lái xe. Mình không hiểu nổi sao anh ấy không nói “anh cũng yêu em…”. Khi về đến nhà, mình cảm giác như mình đã mất anh ấy hoàn toàn, như thể rằng anh ấy không muốn gì từ mình nữa. Anh cứ ngồi đó, yên lặng xem TV. Cuối cùng, với những sự im lặng đó, mình quyết định đi ngủ. 15 phút sau, anh ấy cũng đi ngủ. Nhưng mình cảm giác rằng anh ấy lạ lùng, rằng suy nghĩ của anh đang ở đâu đó. Anh ấy thiếp ngủ; mình khóc. Mình không biết phải làm gì cả. Mình nghĩ rằng tâm trí anh ấy đang ở với một người khác. Cuộc sống của mình như một thảm họa.<br /><h2>Nhật ký của chồng</h2>Code éo chạy, không hiểu tại sao.",
+                    "link": "http://blog.duyetdev.com/2015/11/nhat-ky.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)"
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-2216941621948862965"
+                    },
+                    "pubDate": "Fri, 30 Oct 2015 13:22:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:05:25.683+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "clipboard.js"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "javascript"
+                        }
+                    ],
+                    "title": "Clipboard.js - thư viện giúp cắt/sao chép nội dung trên web một cách dễ dàng.",
+                    "description": "<b>Clipboard.js</b> là một thư viện vô cùng gọn nhẹ (2kb) giúp bạn dễ dàng cắt hoặc sao chép nội dung trên trang web một cách dễ dàng. Được sử dụng trong các trường hợp bạn muốn người dùng tự động copy dữ liệu vào trong clipboard mà không cần thực hiện thao tác copy hoặc <b>Ctrl + C.</b><br><br><div class=\"separator\" style=\"clear: both; text-align: center;\"><img border=\"0\" src=\"https://3.bp.blogspot.com/-nogpFtDX4JE/VjNskDinauI/AAAAAAAAFfk/ciSSYDvmaKs/s1600/5ab0a950-5fb4-11e5-9602-e73c0b661883.jpg\" style=\"border: 0; box-shadow: none;\"></div><br><a href=\"http://blog.duyetdev.com/2015/10/clipboardjs-thu-vien-giup-cat-sao-chep-noi-dung-tren-web.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/10/clipboardjs-thu-vien-giup-cat-sao-chep-noi-dung-tren-web.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://3.bp.blogspot.com/-nogpFtDX4JE/VjNskDinauI/AAAAAAAAFfk/ciSSYDvmaKs/s72-c/5ab0a950-5fb4-11e5-9602-e73c0b661883.jpg",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-8132263938399123512"
+                    },
+                    "pubDate": "Mon, 26 Oct 2015 14:52:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:06:23.810+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "OpenVPN"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Ubuntu"
+                        }
+                    ],
+                    "title": "Cài đặt OpenVPN trên Debian, Ubuntu và CentOS",
+                    "description": "OpenVPN là một chương trình mã nguồn mở VPN hoàn toàn miễn phí và đang được xem là giải pháp hoàn hảo nhất cho những ai muốn có một kết nối bảo mật giữa hai mạng. Trong bài này, mình sẽ giới thiệu OpenVPN road warrior installer, một script tự động cài đặt OpenVPN Server rất đơn giản và nhanh chóng.<br><br><div style=\"text-align: center;\"><img border=\"0\" src=\"https://1.bp.blogspot.com/-MSVkQL61Px0/Vi483gBYyyI/AAAAAAAAFL4/XtlhpYG-uGU/s1600/Cai-dat-OpenVPN-Server.jpg\"></div><div style=\"text-align: center;\">Ảnh: Digital Ocean</div><a href=\"http://blog.duyetdev.com/2015/10/cai-at-openvpn-tren-debian-ubuntu-va-centos.html#more\">Read more »</a>",
+                    "link": "http://blog.duyetdev.com/2015/10/cai-at-openvpn-tren-debian-ubuntu-va-centos.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://1.bp.blogspot.com/-MSVkQL61Px0/Vi483gBYyyI/AAAAAAAAFL4/XtlhpYG-uGU/s72-c/Cai-dat-OpenVPN-Server.jpg",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                },
+                {
+                    "guid": {
+                        "_isPermaLink": "false",
+                        "__text": "tag:blogger.com,1999:blog-3454518094181460838.post-7193552165212857030"
+                    },
+                    "pubDate": "Mon, 26 Oct 2015 13:52:00 +0000",
+                    "updated": {
+                        "__prefix": "atom",
+                        "__text": "2016-01-11T02:04:42.152+07:00"
+                    },
+                    "category": [
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "Apache Spark"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "PredictionIO"
+                        },
+                        {
+                            "_domain": "http://www.blogger.com/atom/ns#",
+                            "__text": "siminar"
+                        }
+                    ],
+                    "title": "Seminar - Giới thiệu Apache Spark và PredictionIO",
+                    "description": "Hôm nay buổi seminar về Apache Spark và giới thiệu PredictionIO tại ISLab (ĐH Công nghệ thông tin, KP6 phường Linh Trung) đã thành công tốt đẹp.<a href=\"http://blog.duyetdev.com/2015/10/siminar-gioi-thieu-apache-spark-va-predictionio.html#more\">Read more »</a>",
+                    "enclosure": {
+                        "_type": "text",
+                        "_url": "http://blog.isc-team.xyz/siminar-apache-spark-va-pridictionio/",
+                        "_length": "0"
+                    },
+                    "link": "http://blog.duyetdev.com/2015/10/siminar-gioi-thieu-apache-spark-va-predictionio.html",
+                    "author": "noreply@blogger.com (Van-Duyet Le)",
+                    "thumbnail": {
+                        "_xmlns:media": "http://search.yahoo.com/mrss/",
+                        "_url": "https://4.bp.blogspot.com/-3b5RnHFJ-BY/Vi4vs2h_POI/AAAAAAAAFLo/oBzbFHmhIGs/s72-c/12087179_910280965688222_3487820241091688604_o.jpg",
+                        "_height": "72",
+                        "_width": "72",
+                        "__prefix": "media"
+                    }
+                }
+            ]
+        },
+        "_xmlns:atom": "http://www.w3.org/2005/Atom",
+        "_xmlns:openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "_xmlns:blogger": "http://schemas.google.com/blogger/2008",
+        "_xmlns:georss": "http://www.georss.org/georss",
+        "_xmlns:gd": "http://schemas.google.com/g/2005",
+        "_xmlns:thr": "http://purl.org/syndication/thread/1.0",
+        "_version": "2.0"
+    }
+}

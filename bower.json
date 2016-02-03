@@ -1,0 +1,26 @@
+{
+  "name": "sitemap.duyetdev.com",
+  "description": "Global sitemap for duyetdev.com",
+  "main": "index.js",
+  "authors": [
+    "Van-Duyet Le <me@duyetdev.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "sitemap",
+    "grunt",
+    "duyetdev"
+  ],
+  "homepage": "https://github.com/duyetdev/sitemap.duyetdev.com",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.2"
+  }
+}
