@@ -13,7 +13,12 @@
 		"url": "https://blog.duyetdev.com",
 		"sub": [
 			{ "node": "feed", "url": "https://blog.duyetdev.com/p/feed.html" },
-			{ "node": "about", "url": "https://blog.duyetdev.com/2014/03/about.html#.VrGS4ex97Qr" }
+			{ "node": "about", "url": "https://blog.duyetdev.com/2014/03/about.html#.VrGS4ex97Qr" },
+			{ "node": "category / Git", "url": "https://blog.duyetdev.com/search/label/Git" },
+			{ "node": "category / Nodejs", "url": "https://blog.duyetdev.com/search/label/Nodejs" },
+			{ "node": "category / Apache Spark", "url": "https://blog.duyetdev.com/search/label/Apache%20Spark" },
+			{ "node": "category / javascript", "url": "https://blog.duyetdev.com/search/label/javascript" },
+			{ "node": "category / BigData", "url": "https://blog.duyetdev.com/search/label/BigData" }
 		]
 	},
 	{
