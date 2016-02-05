@@ -15,4 +15,4 @@ Version 0.1 - beta 1
 3. Publish to Github pages.
 4. Sitemap: [https://sitemap.duyetdev.com](https://sitemap.duyetdev.com)
 
-![](http://i.imgur.com/duqJnag.png)
+[![](http://i.imgur.com/duqJnag.png)](https://sitemap.duyetdev.com)
