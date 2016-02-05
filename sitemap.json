@@ -23,9 +23,32 @@
 	},
 	{
 		"node": "page.duyetdev.com",
-		"url": "http://page.duyetdev.com",
+		"url": "http://duyetdev.github.io",
 		"sub": [
-
+			{ "node": "node-ngram", "url": "http://duyetdev.github.io/node-ngram/" },
+			{ "node": "bruteforce-database", "url": "http://duyetdev.github.io/bruteforce-database/" },
+			{ "node": "vietnamese-namedb", "url": "http://duyetdev.github.io/vietnamese-namedb/" },
+			{ "node": "unsplash-crawler", "url": "http://duyetdev.github.io/unsplash-crawler/" },
+			{ "node": "contributing", "url": "http://duyetdev.github.io/contributing/" },
+			{ "node": "node-delete", "url": "https://node-delete.duyetdev.com/" },
+			{ "node": "tuyetngan.xyz", "url": "https://tuyetngan.xyz" },
+			{ "node": "vietnamese-stopwords", "url": "http://duyetdev.github.io/vietnamese-stopwords/" },
+			{ "node": "vietnamese-frontend-interview-questions", "url": "http://duyetdev.github.io/vietnamese-frontend-interview-questions/" },
+			{ "node": "vietnamese-nodejs-interview-questions", "url": "http://duyetdev.github.io/vietnamese-nodejs-interview-questions/" },
+			{ "node": "static-html-server", "url": "http://duyetdev.github.io/static-html-server/" },
+			{ "node": "node-vntokenizer", "url": "http://duyetdev.github.io/node-vntokenizer/" },
+			{ "node": "node-stopwords-filter", "url": "http://duyetdev.github.io/node-stopwords-filter/" },
+			{ "node": "node-tfidf", "url": "http://duyetdev.github.io/node-tfidf/" },
+			{ "node": "node-textcleaner", "url": "http://duyetdev.github.io/node-textcleaner/" },
+			{ "node": "truyenkieu", "url": "http://duyetdev.github.io/truyenkieu/" },
+			{ "node": "rain", "url": "http://duyetdev.github.io/rain/" },
+			{ "node": "arkadia", "url": "http://duyetdev.github.io/arkadia/" },
+			{ "node": "siminar-erp", "url": "http://duyetdev.github.io/siminar-erp/" },
+			{ "node": "yesno", "url": "http://duyetdev.github.io/yesno/" },
+			{ "node": "offline", "url": "http://duyetdev.github.io/D-Under-Construction-Static-Page/" },
+			{ "node": "prediction.io-introduction", "url": "http://duyetdev.github.io/prediction.io-introduction/" },
+			{ "node": "node-style-guide", "url": "http://duyetdev.github.io/node-style-guide/" },
+			{ "node": "awesome-javascript", "url": "http://duyetdev.github.io/awesome-javascript/" }
 		]
 	},
 	{
@@ -96,6 +119,13 @@
 	{
 		"node": "node-style-guide.duyetdev.com",
 		"url": "https://node-style-guide.duyetdev.com",
+		"sub": [
+
+		]
+	},
+	{
+		"node": "vietnamese-wordlist.duyetdev.com",
+		"url": "https://vietnamese-wordlist.duyetdev.com/",
 		"sub": [
 
 		]
