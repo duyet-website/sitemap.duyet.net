@@ -1,5 +1,7 @@
 # sitemap.duyetdev.com
-Global sitemap for duyetdev.com
+Global sitemap for [http://duyetdev.com](http://duyetdev.com)
+
+Version 0.1 - beta 1
 
 # How it work
 
@@ -12,3 +14,5 @@ Global sitemap for duyetdev.com
 
 3. Publish to Github pages.
 4. Sitemap: [https://sitemap.duyetdev.com](https://sitemap.duyetdev.com)
+
+![](http://i.imgur.com/duqJnag.png)
