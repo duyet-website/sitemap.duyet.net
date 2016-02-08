@@ -11,8 +11,18 @@
     <meta name="description" content="Global sitemap for duyetdev.com">
     <meta name="author" content="Van-Duyet Le">
 
+    <!-- Build by Grunt -->
+
     <link type="text/css" rel="stylesheet" href="assets/css/main.css" />
     <link type="text/css" rel="stylesheet" href="assets/css/sticky-footer.css" />
+
+    <script type="text/javascript" src="assets/js/oss.js"></script>
+    <script type="text/javascript">
+        window.duyetdev = window.duyetdev || {};
+        window.duyetdev['oss_server'] = '//oss.duyetdev.com';
+        window.duyetdev['oss_api_key'] = 'ef5dacac538692d643cfc5599e8b4c6d';
+    </script>
+
 
 </head>
 
@@ -26,6 +36,33 @@
                 <h1>sitemap.duyetdev.com</h1>
             </div>
             <p>Global sitemap duyetdev.com</p>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="osscmnrdr oss-input-div">
+                    <form class="form-horizontal" id="osssearchform" method="get" autocomplete="off" role="form" action="javascript:;">
+
+                        <input type="hidden" name="use" value="duyetdev" />
+                        <input type="hidden" name="name" value="default" />
+                        <input type="hidden" name="login" value="duyetdev" />
+                        <input type="hidden" name="key" value="ef5dacac538692d643cfc5599e8b4c6d" />
+
+                        <div class="form-group form-group-lg has-feedback">
+                            <input class="form-control input-lg" type="text" id="osssearchbox" name="query" value="" onkeyup="OpenSearchServer.autosuggest(event, duyetdev['oss_server'] + '/autocompletion?use=duyetdev&login=duyetdev&key=ef5dacac538692d643cfc5599e8b4c6d&name=autocomplete&query=', 'osssearchform', 'osssearchbox', 'ossautocomplete')"
+                                autocomplete="off" placeholder="Search">
+                            <span class="glyphicon glyphicon-search form-control-feedback"></span>
+                        </div>
+
+                    </form>
+                    <div style="position: relative">
+                        <div id="ossautocomplete" class="osscmnrd" style="position: absolute;"></div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div class="container">

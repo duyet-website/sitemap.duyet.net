@@ -13,6 +13,16 @@
     <!-- Build by Grunt -->
 
 	<!-- build:style bundle --><!-- /build -->
+
+    <script type="text/javascript" src="assets/js/oss.js"></script>
+    <!-- build:process -->
+    <script type="text/javascript">
+        window.duyetdev = window.duyetdev || {};
+        window.duyetdev['oss_server'] = '<%= oss_server %>';
+        window.duyetdev['oss_api_key'] = '<%= oss_api_key %>';
+    </script>
+    <!-- /build -->
+
 	<!-- build:section optional headers --><!-- /build -->
 </head>
 <body>

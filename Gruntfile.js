@@ -1,6 +1,8 @@
 module.exports = function(grunt) {
     grunt.initConfig({
     	utm_params: '?utm_source=sitemap.duyetdev.com&utm_medium=sitemap.link&utm_campaign=sitemap.tracker',
+        oss_server: '//oss.duyetdev.com',
+        oss_api_key: 'ef5dacac538692d643cfc5599e8b4c6d',
 
         fixturesPath: 'assets',
         pkg: require('./package.json'),
@@ -8,7 +10,9 @@ module.exports = function(grunt) {
         processhtml: {
             options: {
                 data: {
-                	utm_params: '<%= utm_params %>',
+                    utm_params: '<%= utm_params %>',
+                    oss_server: '<%= oss_server %>',
+                	oss_api_key: '<%= oss_api_key %>',
                 	data: require('./sitemap.json')
                 }
             },
