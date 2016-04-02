@@ -67,6 +67,21 @@
 
 		]
 	},
+        {
+                "node": "sql.duyetdev.com",
+                "url": "https://sql.duyetdev.com",
+                "sub": [
+
+                ]
+        },
+        {
+                "node": "sqldesigner.duyetdev.com",
+                "url": "https://sqldesigner.duyetdev.com",
+                "sub": [
+
+                ]
+        },
+
 	{
 		"node": "xmail.duyetdev.com",
 		"url": "http://xmail.duyetdev.com",
@@ -178,5 +193,27 @@
 		"sub": [
 			{ "node": "uit", "url": "http://spheres.duyetdev.com/uit/" }
 		]
-	}
+	},
+        {
+                "node": "vietnam.ml",
+                "url": "http://vietnam.ml",
+                "sub": [
+
+                ]
+        },
+        {
+                "node": "jslab.xyz",
+                "url": "http://jslab.xyz",
+                "sub": [
+
+                ]
+        },
+        {
+                "node": "lvduit.com",
+                "url": "http://lvduit.com",
+                "sub": [
+
+                ]
+        }
+
 ]
