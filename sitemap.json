@@ -61,6 +61,13 @@
 		]
 	},
 	{
+		"node": "demo.duyetdev.com",
+		"url": "http://demo.duyetdev.com",
+		"sub": [
+			
+		]
+	},
+	{
 		"node": "rain.duyetdev.com",
 		"url": "http://rain.duyetdev.com",
 		"sub": [
