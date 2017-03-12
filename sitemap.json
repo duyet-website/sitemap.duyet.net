@@ -1,54 +1,24 @@
 [
 	{
-		"node": "me.duyetdev.com",
-		"url": "https://me.duyetdev.com",
+		"node": "me.duyet.net",
+		"url": "https://me.duyet.net",
 		"sub": [
-			{ "node": "resume", "url": "http://me.duyetdev.com/resume/index.html" },
-			{ "node": "git-stats", "url": "http://me.duyetdev.com/project/index.html" },
-			{ "node": "publications", "url": "http://me.duyetdev.com/publications/index.html" }
+			{ "node": "resume", "url": "http://me.duyet.net/resume/index.html" },
+			{ "node": "git-stats", "url": "http://me.duyet.net/project/index.html" },
+			{ "node": "publications", "url": "http://me.duyet.net/publications/index.html" }
 		]
 	},
 	{
-		"node": "blog.duyetdev.com",
-		"url": "https://blog.duyetdev.com",
+		"node": "blog.duyet.net",
+		"url": "https://blog.duyet.net",
 		"sub": [
-			{ "node": "feed", "url": "https://blog.duyetdev.com/p/feed.html" },
-			{ "node": "about", "url": "https://blog.duyetdev.com/2014/03/about.html#.VrGS4ex97Qr" },
-			{ "node": "category / Git", "url": "https://blog.duyetdev.com/search/label/Git" },
-			{ "node": "category / Nodejs", "url": "https://blog.duyetdev.com/search/label/Nodejs" },
-			{ "node": "category / Apache Spark", "url": "https://blog.duyetdev.com/search/label/Apache%20Spark" },
-			{ "node": "category / javascript", "url": "https://blog.duyetdev.com/search/label/javascript" },
-			{ "node": "category / BigData", "url": "https://blog.duyetdev.com/search/label/BigData" }
-		]
-	},
-	{
-		"node": "page.duyetdev.com",
-		"url": "http://duyetdev.github.io",
-		"sub": [
-			{ "node": "node-ngram", "url": "http://duyetdev.github.io/node-ngram/" },
-			{ "node": "bruteforce-database", "url": "http://duyetdev.github.io/bruteforce-database/" },
-			{ "node": "vietnamese-namedb", "url": "http://duyetdev.github.io/vietnamese-namedb/" },
-			{ "node": "unsplash-crawler", "url": "http://duyetdev.github.io/unsplash-crawler/" },
-			{ "node": "contributing", "url": "http://duyetdev.github.io/contributing/" },
-			{ "node": "node-delete", "url": "https://node-delete.duyetdev.com/" },
-			{ "node": "tuyetngan.xyz", "url": "https://tuyetngan.xyz" },
-			{ "node": "vietnamese-stopwords", "url": "http://duyetdev.github.io/vietnamese-stopwords/" },
-			{ "node": "vietnamese-frontend-interview-questions", "url": "http://duyetdev.github.io/vietnamese-frontend-interview-questions/" },
-			{ "node": "vietnamese-nodejs-interview-questions", "url": "http://duyetdev.github.io/vietnamese-nodejs-interview-questions/" },
-			{ "node": "static-html-server", "url": "http://duyetdev.github.io/static-html-server/" },
-			{ "node": "node-vntokenizer", "url": "http://duyetdev.github.io/node-vntokenizer/" },
-			{ "node": "node-stopwords-filter", "url": "http://duyetdev.github.io/node-stopwords-filter/" },
-			{ "node": "node-tfidf", "url": "http://duyetdev.github.io/node-tfidf/" },
-			{ "node": "node-textcleaner", "url": "http://duyetdev.github.io/node-textcleaner/" },
-			{ "node": "truyenkieu", "url": "http://duyetdev.github.io/truyenkieu/" },
-			{ "node": "rain", "url": "http://duyetdev.github.io/rain/" },
-			{ "node": "arkadia", "url": "http://duyetdev.github.io/arkadia/" },
-			{ "node": "siminar-erp", "url": "http://duyetdev.github.io/siminar-erp/" },
-			{ "node": "yesno", "url": "http://duyetdev.github.io/yesno/" },
-			{ "node": "offline", "url": "http://duyetdev.github.io/D-Under-Construction-Static-Page/" },
-			{ "node": "prediction.io-introduction", "url": "http://duyetdev.github.io/prediction.io-introduction/" },
-			{ "node": "node-style-guide", "url": "http://duyetdev.github.io/node-style-guide/" },
-			{ "node": "awesome-javascript", "url": "http://duyetdev.github.io/awesome-javascript/" }
+			{ "node": "feed", "url": "https://blog.duyet.net/p/feed.html" },
+			{ "node": "about", "url": "https://blog.duyet.net/2014/03/about.html#.VrGS4ex97Qr" },
+			{ "node": "category / Git", "url": "https://blog.duyet.net/search/label/Git" },
+			{ "node": "category / Nodejs", "url": "https://blog.duyet.net/search/label/Nodejs" },
+			{ "node": "category / Apache Spark", "url": "https://blog.duyet.net/search/label/Apache%20Spark" },
+			{ "node": "category / javascript", "url": "https://blog.duyet.net/search/label/javascript" },
+			{ "node": "category / BigData", "url": "https://blog.duyet.net/search/label/BigData" }
 		]
 	},
 	{
@@ -61,8 +31,8 @@
 		]
 	},
 	{
-		"node": "demo.duyetdev.com",
-		"url": "http://demo.duyetdev.com",
+		"node": "demo.duyet.net",
+		"url": "http://demo.duyet.net",
 		"sub": [
 			
 		]
@@ -104,8 +74,8 @@
 		]
 	},
 	{
-		"node": "aframe.duyetdev.com",
-		"url": "http://aframe.duyetdev.com",
+		"node": "aframe.duyet.net",
+		"url": "http://aframe.duyet.net",
 		"sub": [
 
 		]
