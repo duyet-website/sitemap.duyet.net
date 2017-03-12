@@ -1,7 +1,7 @@
 {
-  "name": "sitemap.duyetdev.com",
+  "name": "sitemap.duyet.net",
   "version": "0.1.0",
-  "description": "Global sitemap for duyetdev.com",
+  "description": "Global sitemap for duyet.net",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/duyetdev/sitemap.duyetdev.com.git"
+    "url": "git+https://github.com/duyet-website/sitemap.duyet.net.git"
   },
   "keywords": [
     "sitemap",
@@ -19,9 +19,9 @@
   "author": "Van-Duyet Le <me@duyetdev.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/duyetdev/sitemap.duyetdev.com/issues"
+    "url": "https://github.com/duyet-website/sitemap.duyet.net/issues"
   },
-  "homepage": "https://github.com/duyetdev/sitemap.duyetdev.com#readme",
+  "homepage": "https://github.com/duyet-website/sitemap.duyet.net#readme",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-html-build": "^0.5.3",
