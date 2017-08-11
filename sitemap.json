@@ -59,20 +59,7 @@
                 ]
         },
 
-	{
-		"node": "xmail.duyetdev.com",
-		"url": "http://xmail.duyetdev.com",
-		"sub": [
 
-		]
-	},
-	{
-		"node": "todo.duyetdev.com",
-		"url": "http://todo.duyetdev.com",
-		"sub": [
-
-		]
-	},
 	{
 		"node": "aframe.duyet.net",
 		"url": "http://aframe.duyet.net",
@@ -95,66 +82,44 @@
 		]
 	},
 	{
-		"node": "kieu.duyetdev.com",
-		"url": "https://kieu.duyetdev.com",
+		"node": "kieu.duyet.net",
+		"url": "https://kieu.duyet.net",
 		"sub": [
 
 		]
 	},
 	{
-		"node": "node-delete.duyetdev.com",
-		"url": "https://node-delete.duyetdev.com",
+		"node": "node-style-guide.duyet.net",
+		"url": "https://node-style-guide.duyet.net",
 		"sub": [
 
 		]
 	},
 	{
-		"node": "node-style-guide.duyetdev.com",
-		"url": "https://node-style-guide.duyetdev.com",
+		"node": "vietnamese-wordlist.duyet.net",
+		"url": "https://vietnamese-wordlist.duyet.net",
+		"sub": [
+
+		]
+	},
+	
+	{
+		"node": "offline.duyet.net",
+		"url": "https://offline.duyet.net",
 		"sub": [
 
 		]
 	},
 	{
-		"node": "vietnamese-wordlist.duyetdev.com",
-		"url": "https://vietnamese-wordlist.duyetdev.com/",
+		"node": "talk.duyet.net",
+		"url": "http://talk.duyet.net",
 		"sub": [
-
-		]
-	},
-	{
-		"node": "yesno.duyetdev.com",
-		"url": "https://yesno.duyetdev.com",
-		"sub": [
-
-		]
-	},
-	{
-		"node": "notebook.duyetdev.com",
-		"url": "http://notebook.duyetdev.com",
-		"sub": [
-
-		]
-	},
-	{
-		"node": "offline.duyetdev.com",
-		"url": "https://offline.duyetdev.com",
-		"sub": [
-
-		]
-	},
-	{
-		"node": "siminar-erp.duyetdev.com",
-		"url": "http://siminar-erp.duyetdev.com",
-		"sub": [
-
-		]
-	},
-	{
-		"node": "reviews-mining-api.duyetdev.com",
-		"url": "http://reviews-mining-api.duyetdev.com",
-		"sub": [
-
+			"http://talk.duyet.net/intro-bgate",
+			"http://talk.duyet.net/reviews-sentiment",
+			"http://talk.duyet.net/why-docker",
+			"http://talk.duyet.net/entropy",
+			"http://talk.duyet.net/prediction.io-intro",
+			"http://talk.duyet.net/seminar-erp"
 		]
 	},
 	{
@@ -170,27 +135,6 @@
 		"sub": [
 			{ "node": "uit", "url": "http://spheres.duyetdev.com/uit/" }
 		]
-	},
-        {
-                "node": "vietnam.ml",
-                "url": "http://vietnam.ml",
-                "sub": [
-
-                ]
-        },
-        {
-                "node": "jslab.xyz",
-                "url": "http://jslab.xyz",
-                "sub": [
-
-                ]
-        },
-        {
-                "node": "lvduit.com",
-                "url": "http://lvduit.com",
-                "sub": [
-
-                ]
-        }
+	}
 
 ]
