@@ -1,0 +1,12 @@
+# robots.txt for sitemap.duyet.net
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://sitemap.duyet.net/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
