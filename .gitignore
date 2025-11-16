@@ -1,1 +1,33 @@
+# Dependencies
 node_modules/
+bower_components/
+
+# Build outputs
+dist/
+dest/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# OS
+Thumbs.db

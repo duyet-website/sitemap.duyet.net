@@ -3,9 +3,9 @@
 		"node": "me.duyet.net",
 		"url": "https://me.duyet.net",
 		"sub": [
-			{ "node": "resume", "url": "http://me.duyet.net/resume/index.html" },
-			{ "node": "git-stats", "url": "http://me.duyet.net/project/index.html" },
-			{ "node": "publications", "url": "http://me.duyet.net/publications/index.html" }
+			{ "node": "resume", "url": "https://me.duyet.net/resume/index.html" },
+			{ "node": "git-stats", "url": "https://me.duyet.net/project/index.html" },
+			{ "node": "publications", "url": "https://me.duyet.net/publications/index.html" }
 		]
 	},
 	{
@@ -23,23 +23,23 @@
 	},
 	{
 		"node": "ask.duyetdev.com",
-		"url": "http://ask.duyetdev.com",
+		"url": "https://ask.duyetdev.com",
 		"sub": [
-			{ "node": "", "url": "http://ask.duyetdev.com" },
-			{ "node": "Ask me anything", "url": "http://ask.duyetdev.com/ask" },
-			{ "node": "Archive", "url": "http://ask.duyetdev.com/archive" }
+			{ "node": "", "url": "https://ask.duyetdev.com" },
+			{ "node": "Ask me anything", "url": "https://ask.duyetdev.com/ask" },
+			{ "node": "Archive", "url": "https://ask.duyetdev.com/archive" }
 		]
 	},
 	{
 		"node": "demo.duyet.net",
-		"url": "http://demo.duyet.net",
+		"url": "https://demo.duyet.net",
 		"sub": [
-			
+
 		]
 	},
 	{
 		"node": "rain.duyetdev.com",
-		"url": "http://rain.duyetdev.com",
+		"url": "https://rain.duyetdev.com",
 		"sub": [
 
 		]
@@ -62,21 +62,14 @@
 
 	{
 		"node": "aframe.duyet.net",
-		"url": "http://aframe.duyet.net",
+		"url": "https://aframe.duyet.net",
 		"sub": [
 
 		]
 	},
 	{
 		"node": "arkadia.duyetdev.com",
-		"url": "http://arkadia.duyetdev.com",
-		"sub": [
-
-		]
-	},
-	{
-		"node": "arkadia.duyetdev.com",
-		"url": "http://arkadia.duyetdev.com",
+		"url": "https://arkadia.duyetdev.com",
 		"sub": [
 
 		]
@@ -112,28 +105,28 @@
 	},
 	{
 		"node": "talk.duyet.net",
-		"url": "http://talk.duyet.net",
+		"url": "https://talk.duyet.net",
 		"sub": [
-			"http://talk.duyet.net/intro-bgate",
-			"http://talk.duyet.net/reviews-sentiment",
-			"http://talk.duyet.net/why-docker",
-			"http://talk.duyet.net/entropy",
-			"http://talk.duyet.net/prediction.io-intro",
-			"http://talk.duyet.net/seminar-erp"
+			{ "node": "intro-bgate", "url": "https://talk.duyet.net/intro-bgate" },
+			{ "node": "reviews-sentiment", "url": "https://talk.duyet.net/reviews-sentiment" },
+			{ "node": "why-docker", "url": "https://talk.duyet.net/why-docker" },
+			{ "node": "entropy", "url": "https://talk.duyet.net/entropy" },
+			{ "node": "prediction.io-intro", "url": "https://talk.duyet.net/prediction.io-intro" },
+			{ "node": "seminar-erp", "url": "https://talk.duyet.net/seminar-erp" }
 		]
 	},
 	{
 		"node": "static-html-server.duyetdev.com",
-		"url": "http://static-html-server.duyetdev.com",
+		"url": "https://static-html-server.duyetdev.com",
 		"sub": [
 
 		]
 	},
 	{
 		"node": "spheres.duyetdev.com",
-		"url": "http://spheres.duyetdev.com",
+		"url": "https://spheres.duyetdev.com",
 		"sub": [
-			{ "node": "uit", "url": "http://spheres.duyetdev.com/uit/" }
+			{ "node": "uit", "url": "https://spheres.duyetdev.com/uit/" }
 		]
 	}
 
