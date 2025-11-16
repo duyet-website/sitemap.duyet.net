@@ -4,6 +4,8 @@
  * Includes: Dark mode, search, accessibility, error handling
  */
 
+/* eslint-disable no-console */
+
 // Import sitemap data (injected by Vite)
 const SITEMAP_DATA = __SITEMAP_DATA__;
 
@@ -334,7 +336,7 @@ class Analytics {
 
     window.dataLayer = window.dataLayer || [];
     function gtag() {
-      dataLayer.push(arguments);
+      window.dataLayer.push(arguments);
     }
     gtag('js', new Date());
     gtag('config', CONFIG.gaId, {
